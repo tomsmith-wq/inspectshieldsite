@@ -139,9 +139,9 @@ export default function Schedule() {
           <a href="/" className="flex items-center gap-3">
             <img src={LOGO_URL} alt="InspectShield" className="h-12 w-auto" />
           </a>
-          <a href="tel:6573309194" className="flex items-center gap-2 text-sm text-[#0B1D3A] hover:text-[#C5922E] transition-colors">
+          <a href="tel:6153307036" className="flex items-center gap-2 text-sm text-[#0B1D3A] hover:text-[#C5922E] transition-colors">
             <Phone className="w-4 h-4" />
-            <span className="hidden sm:inline">657-330-9194</span>
+            <span className="hidden sm:inline">615-330-7036</span>
           </a>
         </div>
       </header>
@@ -317,7 +317,7 @@ export default function Schedule() {
                     <div>
                       <p className="font-heading font-semibold text-[#0B1D3A]">Prefer to pay another way?</p>
                       <p className="text-sm text-muted-foreground mt-1">
-                        You can also pay by phone at <a href="tel:6573309194" className="text-[#C5922E] font-medium hover:underline">657-330-9194</a> or in person on the day of your test.
+                        You can also pay by phone at <a href="tel:6153307036" className="text-[#C5922E] font-medium hover:underline">615-330-7036</a> or in person on the day of your test.
                       </p>
                     </div>
                   </div>
