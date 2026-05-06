@@ -102,6 +102,10 @@ export default function Schedule() {
     return () => window.removeEventListener("message", handleCalendlyEvent);
   }, [handleCalendlyEvent]);
 
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, [currentStep]);
+
   // Initialize Calendly widget when step changes to "schedule"
   useEffect(() => {
     if (currentStep === "schedule" && window.Calendly) {
@@ -241,7 +245,7 @@ export default function Schedule() {
                 <div
                   id="calendly-inline-widget"
                   className="bg-white rounded-xl border border-border overflow-hidden"
-                  style={{ minHeight: "680px" }}
+                    style={{ minHeight: "900px", height: "900px" }}
                 />
 
                 <div className="mt-8 flex justify-between">
