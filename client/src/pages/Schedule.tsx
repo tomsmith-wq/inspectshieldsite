@@ -15,7 +15,7 @@ import {
   CheckCircle,
 } from "lucide-react";
 
-const LOGO_URL = "/manus-storage/inspectshield-logo-trimmed_2631ab73.png";
+const LOGO_URL = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663633025930/ozyjLMaozcaVajCg.png";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 20 },
