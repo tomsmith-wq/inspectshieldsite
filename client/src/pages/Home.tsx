@@ -65,9 +65,9 @@ function TopBar() {
       <div className="container flex justify-between items-center flex-wrap gap-2">
         <span className="text-white/70">Independent radon, mold, and indoor air quality testing across Middle Tennessee</span>
         <span className="flex items-center gap-4">
-          <a href="tel:6573309194" className="flex items-center gap-1.5 hover:text-[#C5922E] transition-colors">
+          <a href="tel:6153307036" className="flex items-center gap-1.5 hover:text-[#C5922E] transition-colors">
             <Phone className="w-3.5 h-3.5" />
-            657-330-9194
+            615-330-7036
           </a>
           <a href="mailto:tomsmith@getinspectshield.com" className="flex items-center gap-1.5 hover:text-[#C5922E] transition-colors hidden sm:flex">
             <Mail className="w-3.5 h-3.5" />
@@ -133,10 +133,10 @@ function HeroSection() {
                 <ArrowRight className="w-4 h-4 ml-2" />
               </Button>
             </a>
-            <a href="tel:6573309194">
+            <a href="tel:6153307036">
               <Button size="lg" variant="outline" className="border-white/30 text-white hover:bg-white/10 font-semibold text-base px-8">
                 <Phone className="w-4 h-4 mr-2" />
-                Call 657-330-9194
+                Call 615-330-7036
               </Button>
             </a>
           </motion.div>
@@ -606,10 +606,10 @@ function CTASection() {
                 Schedule Online
               </Button>
             </a>
-            <a href="tel:6573309194">
+            <a href="tel:6153307036">
               <Button size="lg" variant="outline" className="border-[#0B1D3A]/20 text-[#0B1D3A] hover:bg-[#0B1D3A]/5 font-semibold text-base px-8">
                 <Phone className="w-4 h-4 mr-2" />
-                Call 657-330-9194
+                Call 615-330-7036
               </Button>
             </a>
           </motion.div>
@@ -648,7 +648,7 @@ function Footer() {
             <ul className="space-y-2 text-sm text-white/60">
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-[#C5922E]" />
-                <a href="tel:6573309194" className="hover:text-white transition-colors">657-330-9194</a>
+                <a href="tel:6153307036" className="hover:text-white transition-colors">615-330-7036</a>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-[#C5922E]" />
