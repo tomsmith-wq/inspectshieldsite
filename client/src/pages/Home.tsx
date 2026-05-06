@@ -23,7 +23,7 @@ import {
   MapPin,
 } from "lucide-react";
 
-const LOGO_URL = "/manus-storage/inspectshield-logo-trimmed_2631ab73.png";
+const LOGO_URL = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663633025930/ozyjLMaozcaVajCg.png";
 const HERO_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663633025930/GTpQYpWtrzNo9zuDxYgzHD/hero-bg-PkeRKEvbMXHc9d32uX2U3j.webp";
 const TESTING_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663633025930/GTpQYpWtrzNo9zuDxYgzHD/testing-process-csM4EUz6GemuiEjv9KLPAB.webp";
 const FAMILY_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663633025930/GTpQYpWtrzNo9zuDxYgzHD/family-home-necjWfHZszhf7cuJxDwxcw.webp";
